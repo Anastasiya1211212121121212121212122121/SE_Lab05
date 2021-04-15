@@ -7,4 +7,6 @@ int main()
     int a,b;
     cout << "Enter two integer number" << endl;
     cin >> a>>b;
+    int d;
+    cout <<"a+b="<<d<<endl;
 }
