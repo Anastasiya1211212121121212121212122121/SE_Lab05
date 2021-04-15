@@ -1,3 +1,4 @@
+/*This is educational work*/
 #include <iostream>
 
 using namespace std;
